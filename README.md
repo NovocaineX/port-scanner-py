@@ -113,7 +113,6 @@ This tool is developed for **educational purposes and authorized security testin
 **Aadarsh Bonthula**
 B.Tech Computer Science (Cybersecurity Specialization)
 Manav Rachna International Institute of Research and Studies
-
 Intern ID: CITS3364
 
 GitHub: [NovocaineX](https://github.com/NovocaineX)
